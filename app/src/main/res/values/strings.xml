@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Min Gas Cost</string>
+    <string name="number_one">1 </string>
+    <string name="hint_mpg">Mpg value</string>
+    <string name="number_two">2</string>
+    <string name="gas_value">Dollar value</string>
+    <string name="btn_text">Found the cheaper</string>
+    <string name="gasoline">Gasoline</string>
+    <string name="ethanol">Ethanol</string>
+    <string name ="diesel">Diesel</string>
+    <string name="biodiesel">Biodiesel</string>
+    <string name="vng">Vehicle natural gas</string>
+    <string name="eletric">Eletric</string>
+    <string name="mpg_cost">Mpg cost with %s</string>
+    <string name="emptyField">Please complete the field</string>
+    <string name="btn_clear">Clear</string>
+</resources>

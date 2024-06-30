@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red_icon">#FFdb2b51</color>
+    <color name="red_alternative">#FFB41F3F</color>
+    <color name="red_dark_mode">#FF1E050A</color>
+    <color name="red_dark_mode_alternative">#FF490C1A</color>
+</resources>

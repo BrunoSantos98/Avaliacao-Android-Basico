@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gases">
+        <item>@string/gasoline</item>
+        <item>@string/ethanol</item>
+        <item>@string/diesel</item>
+        <item>@string/biodiesel</item>
+        <item>@string/vng</item>
+        <item>@string/eletric</item>
+    </string-array>
+</resources>

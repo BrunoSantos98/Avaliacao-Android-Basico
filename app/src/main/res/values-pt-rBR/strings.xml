@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Min Gas Cost</string>
+    <string name="number_one">1 </string>
+    <string name="hint_mpg">Valor em Km/L</string>
+    <string name="number_two">2</string>
+    <string name="gas_value">Valor em R$</string>
+    <string name="btn_text">Encontrar o mais barato</string>
+    <string name="gasoline">Gasolina</string>
+    <string name="ethanol">Etanol</string>
+    <string name ="diesel">Diesel</string>
+    <string name="biodiesel">Biodiesel</string>
+    <string name="vng">Gás Natural</string>
+    <string name="eletric">Eletrico</string>
+    <string name="mpg_cost">Custo por Km/L %s</string>
+    <string name="emptyField">Por favor preencha este campo</string>
+    <string name="btn_clear">Limpar</string>
+</resources>
